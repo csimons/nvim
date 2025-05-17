@@ -2,3 +2,5 @@
 require("config.lazy")
 
 vim.cmd("colorscheme elflord")
+
+vim.cmd("source $HOME/.vimrc")
